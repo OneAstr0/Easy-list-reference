@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Сборник грибника</string>
+    <string name="text1">Виды грибов</string>
+    <string name="text2">Съедобные грибы</string>
+    <string name="text3">Несъедобные грибы</string>
+</resources>
